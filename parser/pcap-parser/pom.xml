@@ -11,19 +11,20 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
+        <pkts.version>3.0.10</pkts.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>io.pkts</groupId>
             <artifactId>pkts-core</artifactId>
-            <version>3.0.10</version>
+            <version>${pkts.version}</version>
         </dependency>
 
         <dependency>
             <groupId>io.pkts</groupId>
             <artifactId>pkts-streams</artifactId>
-            <version>3.0.10</version>
+            <version>${pkts.version}</version>
         </dependency>
     </dependencies>
 </project>
