@@ -31,6 +31,7 @@ log/
 target/
 .cache-tests
 .cache-main
+dependency-reduced-pom.xml
 
 # Mkdocs
 site/
