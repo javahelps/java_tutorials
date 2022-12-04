@@ -18,6 +18,7 @@ All the Java projects used in <a href="https://www.javahelps.com">Java Helps</a>
 ### Hello World 👋
 - [MSF4J - Hello World](https://github.com/javahelps/java_tutorials/tree/main/hello-world/msf4j-hello-world)
 - [Jersey 3 - Hello World](https://github.com/javahelps/java_tutorials/tree/main/hello-world/jersey-hello-world)
+- [JPA Hibernate - Hello World](https://github.com/javahelps/java_tutorials/tree/main/hello-world/jpa-hibernate-hello-world)
 
 #### Parser 🤖
 - [Pcap Parser](https://github.com/javahelps/java_tutorials/tree/main/parser/pcap-parser)
