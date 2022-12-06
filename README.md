@@ -12,7 +12,8 @@ All the Java projects used in <a href="https://www.javahelps.com">Java Helps</a>
 ### Contents:
   - [Categories](#categories)
       - [Hello World 👋](#hello-world-)
-      - [Parser 🤖](#parser-)
+      - [Parser 🔍](#parser-)
+      - [Apache Maven 🔧](#apache-maven-)
   - [License](#license)
 
 ### Hello World 👋
@@ -20,8 +21,12 @@ All the Java projects used in <a href="https://www.javahelps.com">Java Helps</a>
 - [Jersey 3 - Hello World](https://github.com/javahelps/java_tutorials/tree/main/hello-world/jersey-hello-world)
 - [JPA Hibernate - Hello World](https://github.com/javahelps/java_tutorials/tree/main/hello-world/jpa-hibernate-hello-world)
 
-#### Parser 🤖
+#### Parser 🔍
 - [Pcap Parser](https://github.com/javahelps/java_tutorials/tree/main/parser/pcap-parser)
+
+#### Apache Maven 🔧
+- [Create Uber JAR](https://github.com/javahelps/java_tutorials/tree/main/maven/maven-fat-jar)
+
 
 ## License
 
